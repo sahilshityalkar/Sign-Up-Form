@@ -3,12 +3,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Khand:wght@500&family=Poltawski+Nowy:ital,wght@1,600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Poltawski+Nowy:ital,wght@1,600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&family=Poltawski+Nowy:ital,wght@1,600&display=swap');
-*{
+
+* {
     margin: 0%;
     padding: 0%;
 }
-.logoPage{
-    background-image: url("./images/photo-1585202900225-6d3ac20a6962.avif");
+
+.logoPage {
+    background-image: url("./image/photo-1585202900225-6d3ac20a6962.avif");
     background-size: 600px 700px;
     background-repeat: no-repeat;
     width: 35%;
@@ -17,7 +19,8 @@
     justify-content: center;
     margin-top: 20px;
 }
-img{
+
+img {
     margin-top: 100px;
     height: 200px;
 }
